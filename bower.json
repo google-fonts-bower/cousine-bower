@@ -1,0 +1,17 @@
+{
+    "name": "cousine-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Steve Matteson"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cousine-bower.git"
+    },
+    "description": "Cousine font",
+    "keywords": [
+        "font",
+        "MONOSPACE"
+    ]
+}
